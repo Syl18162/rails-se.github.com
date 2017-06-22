@@ -334,6 +334,15 @@ Långt ifrån komplett! [Lägg gärna till](https://github.com/rails-se/rails-se
   </li>
 
   <li>
+    <a href="http://www.theoilandgasmarket.com">Margot International (The Oil & Gas Market)</a>
+    <ul>
+      <li>
+        Slimane Bouabbane
+      </li>
+    </ul>
+  </li>
+
+  <li>
     <a href="http://www.mynewsdesk.com">Mynewsdesk</a>
     <ul>
       <li>Alex Sergeyev</li>
